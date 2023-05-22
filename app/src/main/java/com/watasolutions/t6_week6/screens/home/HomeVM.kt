@@ -5,6 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.watasolutions.t6_week6.model.Movie
+import com.watasolutions.t6_week6.model.MovieResp
 import com.watasolutions.t6_week6.services.MovieRestClient
 import kotlinx.coroutines.launch
 

@@ -1,7 +1,9 @@
 package com.watasolutions.t6_week6.services
 
+import com.watasolutions.t6_week6.model.Movie
 import com.watasolutions.t6_week6.model.MovieResp
 import retrofit2.http.GET
+import retrofit2.http.Path
 import retrofit2.http.Query
 
 interface MovieApis {
